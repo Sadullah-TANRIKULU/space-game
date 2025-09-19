@@ -8,5 +8,5 @@
 3-commit suicide because there is no hope
 
 
-just type "cd (number)" to see sub-options
+just type "cd (number) && ls" to see sub-options
 
