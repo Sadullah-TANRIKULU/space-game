@@ -1,0 +1,23 @@
+SPACE-CLI-GAME
+
+startline with a message: hello survivor -show this message within a file
+
+cat greet.txt && cat instructions.txt
+
+-your spaceship has just crashed, you're somewhere in space
+
+-you need to find a way from this planet to earth
+
+Options:
+-just stay on this planet and get used to this life
+--grow potato
+--build house
+--create a family 
+-you see your spaceship in horizon
+--look if you repair it
+--look for the missing parts of the spaceship
+-commit suicide because there is no hope
+--find something like a knife
+--hit your head with a stone
+--you couldn't jump down from a high mountain because there is less gravity
+

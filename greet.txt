@@ -1,0 +1,8 @@
+
+hello survivor
+
+
+your spaceship has just crashed, you're on a planet in space, you dont know its name
+
+
+to start the game please type 'cat start.txt'
